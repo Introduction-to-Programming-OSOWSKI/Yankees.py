@@ -1,17 +1,26 @@
-# **Assignment Title**  
+# **Yankees**  
 
 ## **Assignment Description**  
-
+Create a function called yankees() that returns the year in which the yankees won the world series for the xth time. x is given.
 
 ## **Examples**  
->
+>yankees(1)  
+1923
+
+yankees(2)  
+1927  
+
+yankees(10)  
+1943  
 
 ## **Limitations**  
-
+1 list  
+0 for loops  
+0 if  
 ## **Hints**  
-
+stoplight = ["red", "green", "yellow"] creates an array with the elements red, green, and yellow.
 ## **Concepts**  
-
+Unit 1, Unit 2, Unit 3, lists
 ---
 
 ## **How to complete this assignment**
